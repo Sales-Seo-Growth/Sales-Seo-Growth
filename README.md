@@ -40,7 +40,7 @@ A collection of lightweight, high-converting checkout and landing page architect
 ## 📈 Let's Scale Your Online Sales
 
 Are you a small business owner struggling to get consistent online sales, or do you need a smart multi-channel strategy implemented? Let’s connect and talk about how we can optimize your tech stack for growth.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 *   **Principal Consultant:** Fahad
 *   **Specialties:** WordPress, WooCommerce, eBay Integrations, Technical SEO, Sales Funnels
 
