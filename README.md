@@ -40,15 +40,14 @@ A collection of lightweight, high-converting checkout and landing page architect
 ## 📈 Let's Scale Your Online Sales
 
 Are you a small business owner struggling to get consistent online sales, or do you need a smart multi-channel strategy implemented? Let’s connect and talk about how we can optimize your tech stack for growth.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 *   **Principal Consultant:** Fahad
 *   **Specialties:** WordPress, WooCommerce, eBay Integrations, Technical SEO, Sales Funnels
 
 *   **💼 Hire Us / Contact Us:**
   
 * 💼 GitHub: https://github.com/Sales-Seo-Growth
-* 🔗 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fahad-khan-seo123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/fahad-khan-seo123?trk=profile-badge">Fahad Khan</a></div>
-              
+* 🔗 LinkedIn: (https://www.linkedin.com/in/fahad-khan-seo123/)        
 * 📊 Upwork: https://www.upwork.com/freelancers/~0196c9355f1c93e335?viewMode=1
 * 📧 Email: [fahad.moj@gmail.com](mailto:fahad.moj@gmail.com)
 * 📞 Phone: [+92-344-4418141](tel:+923444418141)
