@@ -47,7 +47,8 @@ Are you a small business owner struggling to get consistent online sales, or do 
 *   **💼 Hire Us / Contact Us:**
   
 * 💼 GitHub: https://github.com/Sales-Seo-Growth
-* 🔗 LinkedIn: https://www.linkedin.com/in/fahad-khan-seo123/
+* 🔗 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fahad-khan-seo123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/fahad-khan-seo123?trk=profile-badge">Fahad Khan</a></div>
+              
 * 📊 Upwork: https://www.upwork.com/freelancers/~0196c9355f1c93e335?viewMode=1
 * 📧 Email: [fahad.moj@gmail.com](mailto:fahad.moj@gmail.com)
 * 📞 Phone: [+92-344-4418141](tel:+923444418141)
